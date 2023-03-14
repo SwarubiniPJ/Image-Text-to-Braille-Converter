@@ -1,1 +1,3 @@
 # Image-Text-to-Braille-Converter
+
+The visually impaired people form an integral part of our society. There are more than 15 million people in India who are visually impaired. Braille is a tactile traditional writing system used by the visually impaired people on a embossed paper. The image text is converted into Braille code. The Braille output message can be read by just feeling the push-pull action of the solenoids. This Braille system aims to develop cost-effective assistive technologies to provide visually impaired people with a greater degree of independence in their day to day activities and during their navigation.
